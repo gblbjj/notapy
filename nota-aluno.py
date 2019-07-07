@@ -12,3 +12,5 @@ else:
     print('segundo nosso sistema', x, 'voce foi reprovado direto')
 
 print ('Obrigado', x, 'por utilizar nossos serviços BYE-BYE!')
+
+
